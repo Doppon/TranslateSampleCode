@@ -15,7 +15,7 @@ $(function() {
         headers: {
           'Content-Type': 'application/json',
           'Accept': 'application/jwt',
-          'Ocp-Apim-Subscription-Key': '4e4659353a5b494682b6e68d3587e79d',
+          'Ocp-Apim-Subscription-Key': 'API_KEY',
         },
       }).done(function(data) {
 
